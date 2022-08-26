@@ -1,15 +1,15 @@
 # DIO_DOCKER_Projeto-Final_iac
 Docker - Utilização Prática no Cenário de Microsserviços
 
-##################################################################################################
-#                                                                                                #                                                           #
-#  Instalação do Docker no Linux Ubuntu:  https://docs.docker.com/engine/install/ubuntu/         #
-#  Docker – Utilização prática no  cenário de Microserviços – DIO.me  (Digital innovation One)   #
-#  Instrutor:  Denilson Bonatti                                                                  #
-#  Aluno:  Marcos Lima de Oliveira                                                               #
-#  Pré-requisitos: Conhecimentos básicos em Linux, Docker e AWS.                                 #
-#                                                                                                # 
-##################################################################################################
+###############################################################################################
+
+  Instalação do Docker no Linux Ubuntu:  https://docs.docker.com/engine/install/ubuntu/        
+  Docker – Utilização prática no  cenário de Microserviços – DIO.me  (Digital innovation One)  
+  Instrutor:  Denilson Bonatti                                                                 
+  Aluno:  Marcos Lima de Oliveira                                                              
+  Pré-requisitos: Conhecimentos básicos em Linux, Docker e AWS.                                
+                                                                                                
+###############################################################################################
 
 1.1 – O que é Docker ?
 
